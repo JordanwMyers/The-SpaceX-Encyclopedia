@@ -17,7 +17,7 @@
             <li><a href="default.index">Home</a></li>
             <li><a href="rockets.index">Rockets</a></li>
             <li><a href="news.index">News</a></li>
-            <li><a href="schedule.asp">Schedule</a></li>
+            <li><a href="schedule.index">Schedule</a></li>
             <li><a href="contactus.index">Contact Us</a></li>
             </font>
         </ul>
