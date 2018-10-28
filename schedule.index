@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<h1 align="center">
+		    <font face="verdana">
+		        <font color="#0000FF">
+		            NAME OF TAB
+		        </font>
+		    </font>
+		</h1>
+	</head>
+	<body>
+	    <!--Nav Bar Start-->
+	    <hr>
+		<ul>
+		    <font face="verdana">
+            <li><a href="default.index">Home</a></li>
+            <li><a href="rockets.index">Rockets</a></li>
+            <li><a href="news.index">News</a></li>
+            <li><a href="schedule.index">Schedule</a></li>
+            <li><a href="contactus.index">Contact Us</a></li>
+            </font>
+        </ul>
+        <hr>
+        <!--Nav Bar End-->
+	</body>
+</html>
