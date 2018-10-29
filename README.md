@@ -14,7 +14,7 @@
 	    <hr>
 		<ul>
 		    <font face="verdana">
-            <li><a href="README.index">Home</a></li>
+            <li><a href="README.md">Home</a></li>
             <li><a href="rockets.index">Rockets</a></li>
             <li><a href="news.index">News</a></li>
             <li><a href="schedule.index">Schedule</a></li>
