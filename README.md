@@ -31,5 +31,27 @@
                 </font>
             </font>
         </h3>
+	<!--Launch Schedule Start-->
+	<h3 align="center">
+		<font face="verdana">
+			<font color="0000FF">
+				Launch Schedule
+			</font>
+                </font>
+        </h3>
+		<table align="center">
+			<tr>
+				<td>November 2018</td>
+				<td>December 2018</td>
+				<td>January 2018</td>
+				<td>Febuary 2018</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
 	</body>
 </html>
