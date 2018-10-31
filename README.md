@@ -19,10 +19,10 @@
 		<ul>
 		    <font face="verdana">
             <li><a href="README.md">Home</a></li>
-            <li><a href="rockets.md">Rockets</a></li>
-            <li><a href="news.md">News</a></li>
-            <li><a href="schedule.md">Schedule</a></li>
-            <li><a href="contactus.md">Contact Us</a></li>
+            <li><a href="rockets.index">Rockets</a></li>
+            <li><a href="news.index">News</a></li>
+            <li><a href="schedule.index">Schedule</a></li>
+            <li><a href="contactus.index">Contact Us</a></li>
             </font>
         </ul>
         <hr>
@@ -40,7 +40,9 @@
 	<h3 align="center">
 		<font face="verdana">
 			<font color="0000FF">
+			    <u>
 				Launch Schedule
+				</u>
 			</font>
                 </font>
         </h3>
@@ -98,5 +100,15 @@
 			<tr>
 		</table>
 		<!--Launch Schedule End-->
+		<!--Daily News Start-->
+		<h3 align="center">
+		    <font face="verdana">
+		        <font color="#0000FF">
+		            <u>
+		            Daily News
+		            </u>
+		        </font>
+		    </font>
+		</h3>
 	</body>
 </html>
