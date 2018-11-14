@@ -59,8 +59,8 @@
             </tr>
             <tr>
                 <td>Falcon 9</td>
-                <td>Nov 14</td>
-                <td>3:46pm - 5:27pm EST</td>
+                <td>Nov 15</td>
+                <td>3:46pm - 5:29pm EST</td>
                 <td>Es'hali 2</td>
                 <td>Cape Canv., FL SLC-40</td>
                 <td>YES</td>
@@ -75,8 +75,8 @@
             </tr>
             <tr>
                 <td>Falcon 9</td>
-                <td>December</td>
-                <td>TBD</td>
+                <td>December 4</td>
+                <td>1:38ppm EST</td>
                 <td>CRS-16</td>
                 <td>Cape Canv., FL SLC-40</td>
                 <td>YES</td>
@@ -85,7 +85,7 @@
             <tr>
                 <td>Falcon 9</td>
                 <td>Dec 15</td>
-                <td>9:08am ESt</td>
+                <td>9:24 - 9:50 ESt</td>
                 <td>GPS 3-01</td>
                 <td>Cape Canv., FL SLC-40</td>
                 <td>YES</td>
@@ -108,7 +108,7 @@
             <font face="verdana">
                 <font color="#0000FF">
                     <u>
-                    Daily News
+                    Recent News
                     </u>
                 </font>
             </font>
@@ -142,16 +142,22 @@
         <h4 align="left">
             <font color="white">
                 <u>
-            - https://www.spacex.com/
+                    <a href="https://www.spacex.com/">
+            - SpaceX.com
+            </a>        
             </h4>
             <h4 align="left">
-            - https://spacelaunchnow.me/
+                    <a href="https://spaceflightnow.com/launch-schedule/">
+            - SpaceLaunchNow.com
+            </a>        
             </h4>
             <h4 align="left">
-            - https://en.wikipedia.org/wiki/SpaceX
+                    <a href="https://en.wikipedia.org/wiki/SpaceX">
+            - Wikipedia.com / SpaceX
             </h4>
             <h4 align="left">
-            - https://twitter.com/SpaceX
+                    <a href="https://twitter.com/SpaceX">
+            - Twitter.com / SpaceX
             </h4>
             </u>
             </font>
