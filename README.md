@@ -58,12 +58,12 @@
                 <td>Landing</td>
             </tr>
             <tr>
-                <td>Falcon 9</td>
-                <td>Nov 15</td>
-                <td>3:46pm - 5:29pm EST</td>
-                <td>Es'hali 2</td>
-                <td>Cape Canv., FL SLC-40</td>
-                <td>YES</td>
+                <!--Rocket:--> <td>Falcon 9</td>
+                <!--Date:--> <td>Nov 15</td>
+                <!--Time:--> <td>3:46pm - 5:29pm EST</td>
+                <!--Mission:--> <td>Es'hali 2</td>
+                <!--Location:--> <td>Cape Canv., FL SLC-40</td>
+                <!--Landing:--><td>YES</td>
             </tr>
             <tr>
                 <td>Falcon 9</td>
